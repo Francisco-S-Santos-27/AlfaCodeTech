@@ -72,6 +72,7 @@ const Header = () => {
     >
       <div className="container-custom flex items-center justify-between">
         <a href="#inicio" className="flex items-center space-x-2 z-10">
+        
           <span 
             className={cn(
               "text-2xl font-bold tracking-tight transition-colors", 
